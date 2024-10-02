@@ -1,0 +1,27 @@
+2024-03-01 Paris Pomme 2.5
+2024-03-02 Paris Orange 3.0
+2024-03-01 Lyon Pomme 2.7
+2024-03-03 Paris Banane 1.8
+2024-03-04 Paris Pomme 2.3
+2024-03-05 Marseille Banane 2.2
+2024-03-06 Lyon Orange 3.2
+2024-03-06 Paris Orange 2.7
+2024-03-07 Paris Banane 1.5
+2024-03-08 Marseille Pomme 2.6
+2024-03-09 Bordeaux Orange 3.4
+2024-03-10 Bordeaux Banane 2.1
+2024-03-10 Lyon Banane 2.0
+2024-03-11 Lyon Pomme 2.4
+2024-03-12 Lyon Orange 2.8
+2024-03-13 Lyon Banane 1.6
+2024-03-12 Bordeaux Pomme 3.1
+2024-03-16 Bordeaux Orange 3.8
+2024-03-17 Marseille Pomme 2.9
+2024-03-18 Marseille Orange 3.5
+2024-03-19 Bordeaux Banane 2.4
+2024-03-20 Bordeaux Pomme 3.0
+2024-03-19 Marseille Orange 3.0
+2024-03-21 Marseille Banane 1.8
+
+
+
